@@ -1,2 +1,2 @@
-# onjectdetection_openVINO
+# objectdetection_openVINO
 Object Detection using openVino
